@@ -7,3 +7,6 @@ A collection of notes on things I learned througout the day about languages, tec
 
 ## Mac
 * [Uninstall Node.js from macOS](https://github.com/amberjasmijn/til/edit/master/mac/uninstall-node-from-macos.md)
+
+## HTML
+* [The attribute contenteditable in HTML](https://github.com/amberjasmijn/til/blob/master/html/attribute-contenteditable-in-html.md)
