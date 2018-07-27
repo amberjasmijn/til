@@ -10,3 +10,6 @@ A collection of notes on things I learned througout the day about languages, tec
 
 ## HTML
 * [The attribute contenteditable in HTML](https://github.com/amberjasmijn/til/blob/master/html/attribute-contenteditable-in-html.md)
+
+## Misc
+[Differen between a Data Model and Domain Model](https://github.com/amberjasmijn/til/blob/master/misc/difference-between-data-domain-modeling.md)
