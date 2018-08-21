@@ -13,4 +13,4 @@ To disable it you use `Webpack.IgnorePlugin` and add
 
 to your Webpack configuration. 
 
-Reference: [How to optimize Moment.js with Webpack]https://github.com/jmblog/how-to-optimize-momentjs-with-webpack
+Reference: [How to optimize Moment.js with Webpack](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack)
