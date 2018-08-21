@@ -16,3 +16,4 @@ A collection of notes on things I learned througout the day about languages, tec
 ## Misc
 * [Difference between a Data Model and Domain Model](https://github.com/amberjasmijn/til/blob/master/misc/difference-between-data-domain-modeling.md)
 * [Code splitting with Webpack](https://github.com/amberjasmijn/til/blob/master/misc/code-splitting-with-webpack.md)
+* [Decrease size of Moment.js in your project](https://github.com/amberjasmijn/til/blob/master/misc/decrease-size-of-momentjs.md)
