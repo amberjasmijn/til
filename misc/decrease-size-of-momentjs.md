@@ -1,13 +1,12 @@
 # Decrease size of Moment.js in your project
 
-After analyzing my JavaScript bundle with the Webpack Bundle Analyzer, it turned out that moment -eventhough it wasn't used yet, was the largest package inside the bundle, compared to `react`, `react-dom`, `immutable`, `i18next`, etc. 
+After analyzing my JavaScript bundle with the Webpack Bundle Analyzer, it turned out that moment -even though it wasn't even used, was the largest package compared to `react`, `react-dom`, `immutable`, `i18next`, etc. 
 
-This is because all the locales are included by default, which is not necessary most of the time. 
-To disable it, you can ignore it by adding
+This is because all the locales are included by default, which isn't necessary most of the time. 
+To disable it you use `Webpack.IgnorePlugin` and add
 
 ```
   plugins: [
-    new BundleAnalyzerPlugin(),
     new Webpack.IgnorePlugin(/^\.\/locale$/, /moment$/)
   ]
 ```
