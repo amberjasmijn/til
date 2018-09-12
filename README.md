@@ -2,8 +2,10 @@
 A collection of notes on things I learned througout the day about languages, technologies and interesting tech related topics. 
 > Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-## React
-* [Pick properties with TypeScript](https://github.com/amberjasmijn/til/blob/master/react/pick-properties-with-typescript.md)
+## TypeScript
+* [Pick properties with TypeScript](https://github.com/amberjasmijn/til/blob/master/typescript/pick-properties-with-typescript.md)
+* [TypeScript doesn't emit a name to exported functions](https://github.com/amberjasmijn/til/blob/master/typescript/typescript-doesn't-emit-a-name-to-exported-functions.md)
+
 
 ## Mac
 * [Uninstall Node.js from macOS](https://github.com/amberjasmijn/til/edit/master/mac/uninstall-node-from-macos.md)
